@@ -222,11 +222,11 @@ main {
 
         input {
             margin-bottom: 0;
-            grid-column: 1 / 0;
+            grid-column: 1 / 8;
         }
 
         button {
-            grid-column: 0 / 11;
+            grid-column: 8 / 11;
         }
     }
     
